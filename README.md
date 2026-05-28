@@ -35,6 +35,8 @@ The Overview page provides a high-level summary of fraud performance and include
 - Fraud amount by transaction category
 - Fraud loss by state
 
+<img src="images/overview.png" alt="Fraud Analysis Overview Dashboard" width="900"/>
+
 This page is designed to quickly identify the largest fraud contributors and understand the general scale of the problem.
 
 ### 2. Deep Dive
@@ -44,6 +46,8 @@ The Deep Dive page focuses on more detailed fraud patterns and includes:
 - Hourly fraud heatmap by weekday
 - Fraud amount by category on a logarithmic scale
 - Interactive filters for year, quarter, month, age group, category, and state
+
+<img src="images/deep_dive.png" alt="Fraud Analysis Deep Dive Dashboard" width="900"/>
 
 This page helps investigate when fraud is more concentrated and whether specific categories show unusual fraud distributions or outliers.
 
